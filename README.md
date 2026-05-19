@@ -24,13 +24,13 @@ This project uses a LangChain agent and a Tavily web search tool to suggest reci
    Windows PowerShell:
    ```powershell
    python -m venv .venv
-   .\.venv\Scripts\Activate.ps1
+   .venv\Scripts\Activate.ps1
    ```
 
    Windows CMD:
    ```cmd
    python -m venv .venv
-   .\.venv\Scripts\activate
+   .venv\Scripts\activate
    ```
 
 2. Install dependencies:
